@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background Colors that will be used by the App-->
+    <color name="purple">#893db2</color>
+    <color name="green">#3db24f</color>
+    <color name="blue">#0f50d2</color>
+    <color name="red">#FFEA041B</color>
+
+</resources>
